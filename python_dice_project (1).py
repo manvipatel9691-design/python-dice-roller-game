@@ -1,7 +1,3 @@
-# Dice Roller Game
-# Made by: [Your Name]
-# Class: [Your Class]
-# Roll No: [Your Roll Number]
 
 import tkinter as tk
 from tkinter import messagebox
